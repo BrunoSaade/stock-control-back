@@ -1,0 +1,9 @@
+**/*.env
+!**/*.example.env
+
+debug
+__debug_bin
+__debug_bin*
+
+# Mac OS files
+.DS_store
